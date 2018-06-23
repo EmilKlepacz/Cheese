@@ -1,0 +1,343 @@
+﻿Department	Zip Code	Cheeses	French URL	English URL	Image	Milk
+Ain	1000	Bleu de Gex	http://fr.wikipedia.org/wiki/Bleu_de_Gex	http://en.wikipedia.org/wiki/Bleu_de_Gex	http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bleu_de_Gex.jpg/280px-Bleu_de_Gex.jpg	Cow
+Ain	1000	Bresse Bleu	http://fr.wikipedia.org/wiki/Bresse_Bleu	http://en.wikipedia.org/wiki/Bleu_de_Bresse	http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bleu_de_Bresse_cheese.jpg/280px-Bleu_de_Bresse_cheese.jpg	Cow
+Ain	1000	Carré Frais	http://fr.wikipedia.org/wiki/Carr%C3%A9_Frais		http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Carre-frais.jpg/280px-Carre-frais.jpg	Cow
+Ain	1000	Chevret	http://fr.wikipedia.org/wiki/Chevret			Goat
+Ain	1000	Chevret du Haut-Jura	http://fr.wikipedia.org/wiki/Chevret_du_Haut-Jura		http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chevret_du_haut_jura.JPG/280px-Chevret_du_haut_jura.JPG	Cow
+Ain	1000	Clon	http://fr.wikipedia.org/wiki/Clon			Cow
+Ain	1000	Comté  	http://fr.wikipedia.org/wiki/Comt%C3%A9_%28fromage%29	http://en.wikipedia.org/wiki/Comt%C3%A9_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Comt%C3%A9_02.jpg/280px-Comt%C3%A9_02.jpg	Cow
+Ain	1000	Emmental de Savoie	http://fr.wikipedia.org/wiki/Emmental_de_Savoie		http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emmental_de_Savoie_02.jpg/280px-Emmental_de_Savoie_02.jpg	Cow
+Ain	1000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Ain	1000	Morbier  	http://fr.wikipedia.org/wiki/Morbier_%28fromage%29	http://en.wikipedia.org/wiki/Morbier_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Morbier_%28fromage%29_01.jpg/280px-Morbier_%28fromage%29_01.jpg	Cow
+Ain	1000	Pourri bressan	http://fr.wikipedia.org/wiki/Pourri_bressan		http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pourri_bressan.JPG/220px-Pourri_bressan.JPG	Cow
+Ain	1000	Ramequin  	http://fr.wikipedia.org/wiki/Ramequin_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ramequin0.JPG/280px-Ramequin0.JPG	Cow
+Ain	1000	Tracle	http://fr.wikipedia.org/wiki/Tracle		http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tracle_du_bugey.jpg/220px-Tracle_du_bugey.jpg	Cow
+Aisne	2000	Belle des champs	http://fr.wikipedia.org/wiki/Belle_des_champs			Cow
+Aisne	2000	Dauphin  	http://fr.wikipedia.org/wiki/Dauphin_%28fromage%29			Cow
+Allier	3000	Bessay  	http://fr.wikipedia.org/wiki/Bessay_%28fromage%29			Cow
+Allier	3000	Chambérat  	http://fr.wikipedia.org/wiki/Chamb%C3%A9rat_%28fromage%29			Cow
+Allier	3000	Charolais  	http://fr.wikipedia.org/wiki/Charolais_%28fromage%29			Goat
+Allier	3000	Grand tomachon	http://fr.wikipedia.org/wiki/Grand_tomachon			Cow
+Allier	3000	Le Délice du Chalet	http://fr.wikipedia.org/wiki/Le_D%C3%A9lice_du_Chalet			Cow
+Ardèche	7000	Chèvreton	http://fr.wikipedia.org/wiki/Ch%C3%A8vreton			Goat
+Ardèche	7000	Le Coucouron	http://fr.wikipedia.org/wiki/Le_Coucouron			Cow
+Ardèche	7000	Picodon	http://fr.wikipedia.org/wiki/Picodon	http://en.wikipedia.org/wiki/Picodon	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wikicheese_-_Picodon_-_20150417_-_003.jpg/280px-Wikicheese_-_Picodon_-_20150417_-_003.jpg	Goat
+Ardèche	7000	Rogeret des Cévennes	http://fr.wikipedia.org/wiki/Rogeret_des_C%C3%A9vennes			Goat
+Ardèche	7000	Saint-félicien	http://fr.wikipedia.org/wiki/Saint-f%C3%A9licien_%28fromage_de_l%27Ard%C3%A8che%29			Cow
+Ardennes	8000	Rocroi  	http://fr.wikipedia.org/wiki/Rocroi_%28fromage%29			Cow
+Ariège	9000	Bethmale  	http://fr.wikipedia.org/wiki/Bethmale_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bethmale_affin%C3%A9.jpg/280px-Bethmale_affin%C3%A9.jpg	Cow
+Ariège	9000	Le Moulis	http://fr.wikipedia.org/wiki/Le_Moulis			Sheep
+Ariège	9000	Le Rogallais	http://fr.wikipedia.org/wiki/Le_Rogallais		http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lerogallais.jpg/280px-Lerogallais.jpg	Cow
+Ariège	9000	Montségur  	http://fr.wikipedia.org/wiki/Monts%C3%A9gur_%28marque%29			Cow
+Ariège	9000	Tomme des Pyrénées	http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tomme_noire_des_Pyrenees.jpg/280px-Tomme_noire_des_Pyrenees.jpg	Cow
+Aube	10000	Barberey  	http://fr.wikipedia.org/wiki/Barberey_%28fromage%29			Cow
+Aube	10000	Brie de Meaux	http://fr.wikipedia.org/wiki/Brie_de_Meaux	http://en.wikipedia.org/wiki/Brie_de_Meaux	http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brie_01.jpg/280px-Brie_01.jpg	Cow
+Aube	10000	Brie de Melun	http://fr.wikipedia.org/wiki/Brie_de_Melun		http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brie_de_Melun.jpg/280px-Brie_de_Melun.jpg	Cow
+Aube	10000	Chaource  	http://fr.wikipedia.org/wiki/Chaource_%28fromage%29	http://en.wikipedia.org/wiki/Chaource_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chaource_%28fromage%29_01.jpg/280px-Chaource_%28fromage%29_01.jpg	Cow
+Aube	10000	Soumaintrain  	http://fr.wikipedia.org/wiki/Soumaintrain_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Soumaintrain.jpg/280px-Soumaintrain.jpg	Cow
+Aude	11000	Pélardon	http://fr.wikipedia.org/wiki/P%C3%A9lardon	http://en.wikipedia.org/wiki/P%C3%A9lardon	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/P%C3%A9lardon_01.jpg/280px-P%C3%A9lardon_01.jpg	Goat
+Aude	11000	Tomme des Pyrénées	http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tomme_noire_des_Pyrenees.jpg/280px-Tomme_noire_des_Pyrenees.jpg	Cow
+Aveyron	12000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Aveyron	12000	Bleu des Causses	http://fr.wikipedia.org/wiki/Bleu_des_Causses	http://en.wikipedia.org/wiki/Bleu_des_Causses	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/10_Bleu_des_Causses.JPG/280px-10_Bleu_des_Causses.JPG	Cow
+Aveyron	12000	Cabécou	http://fr.wikipedia.org/wiki/Cab%C3%A9cou	http://en.wikipedia.org/wiki/Cab%C3%A9cou	http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cab%C3%A9cou_de_l%27Aveyron.JPG/280px-Cab%C3%A9cou_de_l%27Aveyron.JPG	Goat
+Aveyron	12000	Caillé	http://fr.wikipedia.org/wiki/Caill%C3%A9	http://en.wikipedia.org/wiki/Curd	http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Caill%C3%A9.JPG/280px-Caill%C3%A9.JPG	Cow
+Aveyron	12000	Gabriel Coulet  	http://fr.wikipedia.org/wiki/Gabriel_Coulet_%28marque%29		http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Demi_Castelviel_Gabriel_Coulet.jpg/280px-Demi_Castelviel_Gabriel_Coulet.jpg	Sheep
+Aveyron	12000	Laguiole  	http://fr.wikipedia.org/wiki/Laguiole_%28fromage%29	http://en.wikipedia.org/wiki/Laguiole_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Laguiole_%28fromage%29_01.jpg/280px-Laguiole_%28fromage%29_01.jpg	Cow
+Aveyron	12000	Lou Pérac	http://fr.wikipedia.org/wiki/Lou_P%C3%A9rac			Sheep
+Aveyron	12000	Pérail	http://fr.wikipedia.org/wiki/P%C3%A9rail	http://en.wikipedia.org/wiki/Perail	http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/P%C3%A9rail.jpg/280px-P%C3%A9rail.jpg	Sheep
+Aveyron	12000	Rebarbe	http://fr.wikipedia.org/wiki/Rebarbe			Sheep
+Aveyron	12000	Recuite	http://fr.wikipedia.org/wiki/Recuite			Sheep
+Aveyron	12000	Roquefort  	http://fr.wikipedia.org/wiki/Roquefort_%28fromage%29	http://en.wikipedia.org/wiki/Roquefort	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Demi_Castelviel_Gabriel_Coulet.jpg/280px-Demi_Castelviel_Gabriel_Coulet.jpg	Sheep
+Aveyron	12000	Société  	http://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_%28marque%29		http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Formatge_feda_roquefort.JPG/280px-Formatge_feda_roquefort.JPG	Sheep
+Aveyron	12000	Tome fraîche	http://fr.wikipedia.org/wiki/Tome_fra%C3%AEche		http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tome_fra%C3%AEche.jpg/220px-Tome_fra%C3%AEche.jpg	Cow
+Bas-Rhin	67000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Calvados	14000	Carré de Bonneville	http://fr.wikipedia.org/wiki/Carr%C3%A9_de_Bonneville			Cow
+Calvados	14000	Pavé d'Auge	http://fr.wikipedia.org/wiki/Pav%C3%A9_d%27Auge			Cow
+Calvados	14000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Cantal	15000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Cantal	15000	Bleu de Thiézac	http://fr.wikipedia.org/wiki/Bleu_de_Thi%C3%A9zac			Cow
+Loire-Atlantique	44000	Saint-gildas-des-bois  	http://fr.wikipedia.org/wiki/Saint-gildas-des-bois_%28fromage%29			Cow
+Cantal	15000	Cabécou	http://fr.wikipedia.org/wiki/Cab%C3%A9cou	http://en.wikipedia.org/wiki/Cab%C3%A9cou	http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cab%C3%A9cou_de_l%27Aveyron.JPG/280px-Cab%C3%A9cou_de_l%27Aveyron.JPG	Goat
+Cantal	15000	Cantal  	http://fr.wikipedia.org/wiki/Cantal_%28fromage%29	http://en.wikipedia.org/wiki/Cantal_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cantal_02.jpg/280px-Cantal_02.jpg	Cow
+Cantal	15000	Carré d'Aurillac	http://fr.wikipedia.org/wiki/Carr%C3%A9_d%27Aurillac	http://en.wikipedia.org/wiki/Carr%C3%A9_d%27Aurillac		Cow
+Cantal	15000	Fromage de Pays	http://fr.wikipedia.org/wiki/Fromage_de_Pays		http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fromage_de_Pays.jpg/280px-Fromage_de_Pays.jpg	Cow
+Cantal	15000	Laguiole  	http://fr.wikipedia.org/wiki/Laguiole_%28fromage%29	http://en.wikipedia.org/wiki/Laguiole_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Laguiole_%28fromage%29_01.jpg/280px-Laguiole_%28fromage%29_01.jpg	Cow
+Cantal	15000	Saint-nectaire  	http://fr.wikipedia.org/wiki/Saint-nectaire_%28fromage%29	http://en.wikipedia.org/wiki/Saint-Nectaire	http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint-Nectaire.jpg/280px-Saint-Nectaire.jpg	Cow
+Cantal	15000	Salers  	http://fr.wikipedia.org/wiki/Salers_%28fromage%29	http://en.wikipedia.org/wiki/Salers_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Salers_%28fromage%29_01.jpg/220px-Salers_%28fromage%29_01.jpg	Cow
+Cantal	15000	Tome fraîche	http://fr.wikipedia.org/wiki/Tome_fra%C3%AEche		http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tome_fra%C3%AEche.jpg/220px-Tome_fra%C3%AEche.jpg	Cow
+Charente	16000	Chavroux	http://fr.wikipedia.org/wiki/Chavroux	http://en.wikipedia.org/wiki/Chavroux	http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chavroux.jpg/280px-Chavroux.jpg	Goat
+Charente	16000	Taupinette	http://fr.wikipedia.org/wiki/Taupinette		http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taupinette.jpg/280px-Taupinette.jpg	Goat
+Charente-Maritime	17000	Caillebotte  	http://fr.wikipedia.org/wiki/Caillebotte_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Caillebotte_gel.jpg/280px-Caillebotte_gel.jpg	Cow
+Charente-Maritime	17000	Jonchée  	http://fr.wikipedia.org/wiki/Jonch%C3%A9e_%28fromage%29			Cow
+Charente-Maritime	17000	Tricorne de Marans	http://fr.wikipedia.org/wiki/Tricorne_de_Marans			Sheep
+Cher	18000	Crottin de Chavignol	http://fr.wikipedia.org/wiki/Crottin_de_Chavignol	http://en.wikipedia.org/wiki/Crottin_de_Chavignol	http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crottin_02.jpg/280px-Crottin_02.jpg	Goat
+Cher	18000	Faisselle	http://fr.wikipedia.org/wiki/Faisselle		http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Faiselle_%26_confiture_de_lait.JPG/280px-Faiselle_%26_confiture_de_lait.JPG	Cow
+Cher	18000	Santranges-sancerre	http://fr.wikipedia.org/wiki/Santranges-sancerre			Goat
+Cher	18000	Valençay  	http://fr.wikipedia.org/wiki/Valen%C3%A7ay_%28fromage%29	http://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Valen%C3%A7ay_04.jpg/280px-Valen%C3%A7ay_04.jpg	Goat
+Corrèze	19000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Corrèze	19000	Ovalie  	http://fr.wikipedia.org/wiki/Ovalie_%28marque%29			Sheep
+Corrèze	19000	Pavé corrézien	http://fr.wikipedia.org/wiki/Pav%C3%A9_corr%C3%A9zien		http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pav%C3%A9_corr%C3%A9zien.jpg/280px-Pav%C3%A9_corr%C3%A9zien.jpg	Cow
+Corrèze	19000	Truffe de Ventadour	http://fr.wikipedia.org/wiki/Truffe_de_Ventadour			Goat
+Côte-d'Or	21000	Affidélice	http://fr.wikipedia.org/wiki/Affid%C3%A9lice			Cow
+Côte-d'Or	21000	Aisy cendré	http://fr.wikipedia.org/wiki/Aisy_cendr%C3%A9	http://en.wikipedia.org/wiki/Aisy_cendr%C3%A9		Cow
+Côte-d'Or	21000	Abbaye de Cîteaux  	http://fr.wikipedia.org/wiki/Abbaye_de_C%C3%AEteaux_%28marque%29		http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fromage_de_C%C3%AEteaux.JPG/280px-Fromage_de_C%C3%AEteaux.JPG	Cow
+Côte-d'Or	21000	Époisses  	http://fr.wikipedia.org/wiki/%C3%89poisses_%28fromage%29	http://en.wikipedia.org/wiki/%C3%89poisses_de_Bourgogne	http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%C3%89poisses_Gaugry_03.jpg/280px-%C3%89poisses_Gaugry_03.jpg	Cow
+Côte-d'Or	21000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Côte-d'Or	21000	L'Ami du Chambertin	http://fr.wikipedia.org/wiki/L%27Ami_du_Chambertin		http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ami_du_Chambertin_au_lait_cru.jpg/280px-Ami_du_Chambertin_au_lait_cru.jpg	Cow
+Côte-d'Or	21000	Le Trou du Cru	http://fr.wikipedia.org/wiki/Le_Trou_du_Cru	http://en.wikipedia.org/wiki/Trou_du_Cru	http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Le_Trou_Du_Cru.jpg/280px-Le_Trou_Du_Cru.jpg	Cow
+Côte-d'Or	21000	Petit Gaugry	http://fr.wikipedia.org/wiki/Petit_Gaugry		http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Petit_Gaugry_03.jpg/280px-Petit_Gaugry_03.jpg	Cow
+Dordogne	24000	Chaumes	http://fr.wikipedia.org/wiki/Chaumes	http://en.wikipedia.org/wiki/Chaumes	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chaumes.jpg/220px-Chaumes.jpg	Cow
+Dordogne	24000	St Môret	http://fr.wikipedia.org/wiki/St_M%C3%B4ret			Cow
+Dordogne	24000	Trappe Échourgnac	http://fr.wikipedia.org/wiki/Trappe_%C3%89chourgnac		http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Trappe_%C3%89chourgnac_affin%C3%A9_noix_%281%29.JPG/280px-Trappe_%C3%89chourgnac_affin%C3%A9_noix_%281%29.JPG	Cow
+Doubs	25000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Doubs	25000	Morbier  	http://fr.wikipedia.org/wiki/Morbier_%28fromage%29	http://en.wikipedia.org/wiki/Morbier_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Morbier_%28fromage%29_01.jpg/280px-Morbier_%28fromage%29_01.jpg	Cow
+Drôme	26000	Bleu du Vercors-Sassenage	http://fr.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage	http://en.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage	http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bleu_du_Vercors-Sassenage_sur_le_march%C3%A9.jpg/280px-Bleu_du_Vercors-Sassenage_sur_le_march%C3%A9.jpg	Cow
+Drôme	26000	Foudjou	http://fr.wikipedia.org/wiki/Foudjou		http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Foudjou_ard%C3%A9chois.jpg/220px-Foudjou_ard%C3%A9chois.jpg	Goat
+Drôme	26000	Pétafine	http://fr.wikipedia.org/wiki/P%C3%A9tafine		http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/P%C3%A9tafine_onctueuse.jpg/220px-P%C3%A9tafine_onctueuse.jpg	Goat
+Drôme	26000	Picodon	http://fr.wikipedia.org/wiki/Picodon	http://en.wikipedia.org/wiki/Picodon	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wikicheese_-_Picodon_-_20150417_-_003.jpg/280px-Wikicheese_-_Picodon_-_20150417_-_003.jpg	Goat
+Eure	27000	Le Pavé du Plessis	http://fr.wikipedia.org/wiki/Le_Pav%C3%A9_du_Plessis			Cow
+Eure	27000	Pavé d'Auge	http://fr.wikipedia.org/wiki/Pav%C3%A9_d%27Auge			Cow
+Eure	27000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Eure-et-Loir	28000	Voves cendré	http://fr.wikipedia.org/wiki/Voves_cendr%C3%A9			Cow
+Gard	30000	Pélardon	http://fr.wikipedia.org/wiki/P%C3%A9lardon	http://en.wikipedia.org/wiki/P%C3%A9lardon	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/P%C3%A9lardon_01.jpg/280px-P%C3%A9lardon_01.jpg	Goat
+Gard	30000	Picodon	http://fr.wikipedia.org/wiki/Picodon	http://en.wikipedia.org/wiki/Picodon	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wikicheese_-_Picodon_-_20150417_-_003.jpg/280px-Wikicheese_-_Picodon_-_20150417_-_003.jpg	Goat
+Haut-Rhin	68000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Haute-Corse	20600	A Filetta  	http://fr.wikipedia.org/wiki/A_Filetta_%28marque%29			Sheep
+Haute-Corse	20600	Brin d'amour	http://fr.wikipedia.org/wiki/Brin_d%27amour		http://upload.wikimedia.org/wikipedia/commons/b/b9/Cheese-France-Brin-dAmour.jpg	Sheep
+Haute-Corse	20600	Corsica  	http://fr.wikipedia.org/wiki/Corsica_%28marque%29			Sheep
+Haute-Garonne	31000	Cathare  	http://fr.wikipedia.org/wiki/Cathare_%28marque%29	http://en.wikipedia.org/wiki/Cathare	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cathare_fromage.JPG/280px-Cathare_fromage.JPG	Goat
+Haute-Garonne	31000	Tomme des Pyrénées	http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tomme_noire_des_Pyrenees.jpg/280px-Tomme_noire_des_Pyrenees.jpg	Cow
+Haute-Loire	43000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Haute-Loire	43000	Bleu de Costaros	http://fr.wikipedia.org/wiki/Bleu_de_Costaros			Cow
+Haute-Loire	43000	Bleu de Loudes	http://fr.wikipedia.org/wiki/Bleu_de_Loudes			Cow
+Loiret	45000	Chécy  	http://fr.wikipedia.org/wiki/Ch%C3%A9cy_%28fromage%29			Cow
+Haute-Loire	43000	Fromage aux artisons	http://fr.wikipedia.org/wiki/Fromage_aux_artisons		http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fromage_aux_artisous_du_Velay.JPG/280px-Fromage_aux_artisous_du_Velay.JPG	Cow
+Haute-Loire	43000	Montbriac	http://fr.wikipedia.org/wiki/Montbriac			Cow
+Haute-Loire	43000	Rochebaron	http://fr.wikipedia.org/wiki/Rochebaron	http://en.wikipedia.org/wiki/Rochebaron	http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rochebaron_cheese.JPG/280px-Rochebaron_cheese.JPG	Cow
+Haute-Loire	43000	Saint Agur	http://fr.wikipedia.org/wiki/Saint_Agur	http://en.wikipedia.org/wiki/Saint_Agur_Blue	http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SaintAgurCheese.jpg/280px-SaintAgurCheese.jpg	Cow
+Haute-Loire	43000	Tomme de Montagne	http://fr.wikipedia.org/wiki/Tomme_de_Montagne			Cow
+Haute-Marne	52000	Brie de Meaux	http://fr.wikipedia.org/wiki/Brie_de_Meaux	http://en.wikipedia.org/wiki/Brie_de_Meaux	http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brie_01.jpg/280px-Brie_01.jpg	Cow
+Haute-Marne	52000	Caprice des Dieux	http://fr.wikipedia.org/wiki/Caprice_des_Dieux		http://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Caprice_des_Dieux.png/280px-Logo_Caprice_des_Dieux.png	Cow
+Haute-Marne	52000	Époisses  	http://fr.wikipedia.org/wiki/%C3%89poisses_%28fromage%29	http://en.wikipedia.org/wiki/%C3%89poisses_de_Bourgogne	http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%C3%89poisses_Gaugry_03.jpg/280px-%C3%89poisses_Gaugry_03.jpg	Cow
+Haute-Marne	52000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Haute-Marne	52000	Langres  	http://fr.wikipedia.org/wiki/Langres_%28fromage%29	http://en.wikipedia.org/wiki/Langres_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Langres_fromage_AOP_coupe.jpg/280px-Langres_fromage_AOP_coupe.jpg	Cow
+Haute-Saône	70000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Haute-Saône	70000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Hautes-Alpes	5000	Aiguille d'Orcières	http://fr.wikipedia.org/wiki/Aiguille_d%27Orci%C3%A8res			Cow
+Hautes-Alpes	5000	Bleu du Dévoluy	http://fr.wikipedia.org/wiki/Bleu_du_D%C3%A9voluy			Cow
+Hautes-Alpes	5000	Persillé du col Bayard	http://fr.wikipedia.org/wiki/Persill%C3%A9_du_col_Bayard			Cow
+Hautes-Alpes	5000	Pic du Vieux Chaillol  	http://fr.wikipedia.org/wiki/Pic_du_Vieux_Chaillol_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fromage_Le_Pic_du_Vieux_Chaillol.jpg/280px-Fromage_Le_Pic_du_Vieux_Chaillol.jpg	Cow
+Hautes-Alpes	5000	Saint-laurent  	http://fr.wikipedia.org/wiki/Saint-laurent_%28fromage%29			Cow
+Hautes-Alpes	5000	Tome du Champsaur	http://fr.wikipedia.org/wiki/Tome_du_Champsaur			Cow
+Hautes-Pyrénées	65000	Barousse  	http://fr.wikipedia.org/wiki/Barousse_%28fromage%29			Sheep
+Hautes-Pyrénées	65000	Ossau-iraty	http://fr.wikipedia.org/wiki/Ossau-iraty	http://en.wikipedia.org/wiki/Ossau-Iraty	http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ossau-iraty_01.jpg/280px-Ossau-iraty_01.jpg	Sheep
+Hautes-Pyrénées	65000	Tomme des Pyrénées	http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tomme_noire_des_Pyrenees.jpg/280px-Tomme_noire_des_Pyrenees.jpg	Cow
+Hérault	34000	Pélardon	http://fr.wikipedia.org/wiki/P%C3%A9lardon	http://en.wikipedia.org/wiki/P%C3%A9lardon	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/P%C3%A9lardon_01.jpg/280px-P%C3%A9lardon_01.jpg	Goat
+Ille-et-Vilaine	35000	Petit Billy	http://fr.wikipedia.org/wiki/Petit_Billy		http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Petit_Billy_01.JPG/280px-Petit_Billy_01.JPG	Goat
+Indre  	36000	Arthon  	http://fr.wikipedia.org/wiki/Arthon_%28fromage%29			Goat
+Indre  	36000	Pouligny-saint-pierre  	http://fr.wikipedia.org/wiki/Pouligny-saint-pierre_%28fromage%29	http://en.wikipedia.org/wiki/Pouligny-Saint-Pierre_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pouligny-saint-pierre_%28fromage%29_03.jpg/280px-Pouligny-saint-pierre_%28fromage%29_03.jpg	Goat
+Indre  	36000	Sainte-Maure de Touraine  	http://fr.wikipedia.org/wiki/Sainte-Maure_de_Touraine_%28fromage%29	http://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sainte-Maure_de_touraine_01.jpg/280px-Sainte-Maure_de_touraine_01.jpg	Goat
+Indre  	36000	Tournon-saint-pierre  	http://fr.wikipedia.org/wiki/Tournon-saint-pierre_%28fromage%29			Goat
+Indre  	36000	Valençay  	http://fr.wikipedia.org/wiki/Valen%C3%A7ay_%28fromage%29	http://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Valen%C3%A7ay_04.jpg/280px-Valen%C3%A7ay_04.jpg	Goat
+Indre-et-Loire	37000	Couronne Lochoise	http://fr.wikipedia.org/wiki/Couronne_Lochoise	http://en.wikipedia.org/wiki/Couronne_lochoise		Goat
+Indre-et-Loire	37000	Sainte-Maure de Touraine  	http://fr.wikipedia.org/wiki/Sainte-Maure_de_Touraine_%28fromage%29	http://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sainte-Maure_de_touraine_01.jpg/280px-Sainte-Maure_de_touraine_01.jpg	Goat
+Indre-et-Loire	37000	Valençay  	http://fr.wikipedia.org/wiki/Valen%C3%A7ay_%28fromage%29	http://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Valen%C3%A7ay_04.jpg/280px-Valen%C3%A7ay_04.jpg	Goat
+Isère	38000	Bleu de Lavaldens	http://fr.wikipedia.org/wiki/Bleu_de_Lavaldens			Cow
+Isère	38000	Bleu du Vercors-Sassenage	http://fr.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage	http://en.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage	http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bleu_du_Vercors-Sassenage_sur_le_march%C3%A9.jpg/280px-Bleu_du_Vercors-Sassenage_sur_le_march%C3%A9.jpg	Cow
+Isère	38000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Jura  	39000	Bleu de Gex	http://fr.wikipedia.org/wiki/Bleu_de_Gex	http://en.wikipedia.org/wiki/Bleu_de_Gex	http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bleu_de_Gex.jpg/280px-Bleu_de_Gex.jpg	Cow
+Jura  	39000	Chevret du Haut-Jura	http://fr.wikipedia.org/wiki/Chevret_du_Haut-Jura		http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chevret_du_haut_jura.JPG/280px-Chevret_du_haut_jura.JPG	Cow
+Jura  	39000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Jura  	39000	Morbier  	http://fr.wikipedia.org/wiki/Morbier_%28fromage%29	http://en.wikipedia.org/wiki/Morbier_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Morbier_%28fromage%29_01.jpg/280px-Morbier_%28fromage%29_01.jpg	Cow
+Jura  	39000	Pérassu	http://fr.wikipedia.org/wiki/P%C3%A9rassu			Cow
+Jura  	39000	La vache qui rit	http://fr.wikipedia.org/wiki/La_vache_qui_rit	http://en.wikipedia.org/wiki/The_Laughing_Cow	https://upload.wikimedia.org/wikipedia/fr/2/27/Logo_La_vache_qui_rit.svg	Cow
+Landes	40000	Amou  	http://fr.wikipedia.org/wiki/Amou_%28fromage%29			Sheep
+Loir-et-Cher	41000	Le Petit Trôo	http://fr.wikipedia.org/wiki/Le_Petit_Tr%C3%B4o			Cow
+Loir-et-Cher	41000	Sainte-Maure de Touraine  	http://fr.wikipedia.org/wiki/Sainte-Maure_de_Touraine_%28fromage%29	http://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sainte-Maure_de_touraine_01.jpg/280px-Sainte-Maure_de_touraine_01.jpg	Goat
+Loir-et-Cher	41000	Selles-sur-cher  	http://fr.wikipedia.org/wiki/Selles-sur-cher_%28fromage%29	http://en.wikipedia.org/wiki/Selles-sur-Cher_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Selles-sur-cher_1.jpg/280px-Selles-sur-cher_1.jpg	Goat
+Loir-et-Cher	41000	Valençay  	http://fr.wikipedia.org/wiki/Valen%C3%A7ay_%28fromage%29	http://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Valen%C3%A7ay_04.jpg/280px-Valen%C3%A7ay_04.jpg	Goat
+Loire  	42000	Charolais  	http://fr.wikipedia.org/wiki/Charolais_%28fromage%29			Goat
+Loire  	42000	Fourme de Montbrison	http://fr.wikipedia.org/wiki/Fourme_de_Montbrison	http://en.wikipedia.org/wiki/Fourme_de_Montbrison	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fourme_montbrison.jpg/280px-Fourme_montbrison.jpg	Cow
+Loire  	42000	Fromager d'Affinois	http://fr.wikipedia.org/wiki/Fromager_d%27Affinois	http://en.wikipedia.org/wiki/Fromager_d%27Affinois	http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fromager_D%27Affinois.jpg/280px-Fromager_D%27Affinois.jpg	Cow
+Loire  	42000	Rigotte de Condrieu	http://fr.wikipedia.org/wiki/Rigotte_de_Condrieu	http://en.wikipedia.org/wiki/Rigotte_de_Condrieu	http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rigottes_de_Condrieu.JPG/280px-Rigottes_de_Condrieu.JPG	Goat
+Loire  	42000	Rigotte de Pélussin	http://fr.wikipedia.org/wiki/Rigotte_de_P%C3%A9lussin			Goat
+Loire-Atlantique	44000	Chandamour	http://fr.wikipedia.org/wiki/Chandamour			Cow
+Loire-Atlantique	44000	Gourmelin  	http://fr.wikipedia.org/wiki/Gourmelin_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gourmelin.JPG/280px-Gourmelin.JPG	Cow
+Loire-Atlantique	44000	Le Curé Nantais	http://fr.wikipedia.org/wiki/Le_Cur%C3%A9_Nantais		http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cur%C3%A9_nantais.JPG/280px-Cur%C3%A9_nantais.JPG	Cow
+Loiret	45000	Crottin de Chavignol	http://fr.wikipedia.org/wiki/Crottin_de_Chavignol	http://en.wikipedia.org/wiki/Crottin_de_Chavignol	http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crottin_02.jpg/280px-Crottin_02.jpg	Goat
+Loiret	45000	Frinault	http://fr.wikipedia.org/wiki/Frinault			Cow
+Loiret	45000	Olivet  	http://fr.wikipedia.org/wiki/Olivet_%28fromage%29	http://en.wikipedia.org/wiki/Olivet_cendr%C3%A9		Cow
+Loiret	45000	Pannes cendré	http://fr.wikipedia.org/wiki/Pannes_cendr%C3%A9			Cow
+Loiret	45000	Patay  	http://fr.wikipedia.org/wiki/Patay_%28fromage%29			Cow
+Loiret	45000	Pithiviers au foin	http://fr.wikipedia.org/wiki/Pithiviers_au_foin			Cow
+Lot	46000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Lot	46000	Bleu du Quercy	http://fr.wikipedia.org/wiki/Bleu_du_Quercy			Cow
+Lot	46000	Cabécou	http://fr.wikipedia.org/wiki/Cab%C3%A9cou	http://en.wikipedia.org/wiki/Cab%C3%A9cou	http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cab%C3%A9cou_de_l%27Aveyron.JPG/280px-Cab%C3%A9cou_de_l%27Aveyron.JPG	Goat
+Lot	46000	Rocamadour  	http://fr.wikipedia.org/wiki/Rocamadour_%28fromage%29	http://en.wikipedia.org/wiki/Rocamadour_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rocamadour_%28fromage%29_01.jpg/280px-Rocamadour_%28fromage%29_01.jpg	Goat
+Lozère	48000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Lozère	48000	Bleu des Causses	http://fr.wikipedia.org/wiki/Bleu_des_Causses	http://en.wikipedia.org/wiki/Bleu_des_Causses	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/10_Bleu_des_Causses.JPG/280px-10_Bleu_des_Causses.JPG	Cow
+Lozère	48000	Laguiole  	http://fr.wikipedia.org/wiki/Laguiole_%28fromage%29	http://en.wikipedia.org/wiki/Laguiole_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Laguiole_%28fromage%29_01.jpg/280px-Laguiole_%28fromage%29_01.jpg	Cow
+Lozère	48000	Le Fédou	http://fr.wikipedia.org/wiki/Le_F%C3%A9dou			Sheep
+Lozère	48000	Lévéjac  	http://fr.wikipedia.org/wiki/L%C3%A9v%C3%A9jac_%28marque%29		http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fromage-levejac.jpg/280px-Fromage-levejac.jpg	Sheep
+Lozère	48000	Pélardon	http://fr.wikipedia.org/wiki/P%C3%A9lardon	http://en.wikipedia.org/wiki/P%C3%A9lardon	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/P%C3%A9lardon_01.jpg/280px-P%C3%A9lardon_01.jpg	Goat
+Lozère	48000	Persillé du Malzieu	http://fr.wikipedia.org/wiki/Persill%C3%A9_du_Malzieu			Sheep
+Lozère	48000	Rebarbe	http://fr.wikipedia.org/wiki/Rebarbe			Sheep
+Lozère	48000	Tome fraîche	http://fr.wikipedia.org/wiki/Tome_fra%C3%AEche		http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tome_fra%C3%AEche.jpg/220px-Tome_fra%C3%AEche.jpg	Cow
+Maine-et-Loire	49000	Chaussée aux moines	http://fr.wikipedia.org/wiki/Chauss%C3%A9e_aux_moines		http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Chauss%C3%A9e_aux_Moines_%282%29.JPG/280px-Chauss%C3%A9e_aux_Moines_%282%29.JPG	Cow
+Manche	50000	Coutances  	http://fr.wikipedia.org/wiki/Coutances_%28marque%29	http://en.wikipedia.org/wiki/Coutances_cheese		Cow
+Manche	50000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Marne	51000	Brie de Meaux	http://fr.wikipedia.org/wiki/Brie_de_Meaux	http://en.wikipedia.org/wiki/Brie_de_Meaux	http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brie_01.jpg/280px-Brie_01.jpg	Cow
+Marne	51000	Moulin de Gaye	http://fr.wikipedia.org/wiki/Moulin_de_Gaye			Cow
+Mayenne	53000	Bons Mayennais	http://fr.wikipedia.org/wiki/Bons_Mayennais		http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bons_Mayennais_fromage_2.jpg/280px-Bons_Mayennais_fromage_2.jpg	Cow
+Mayenne	53000	Chaussée aux moines	http://fr.wikipedia.org/wiki/Chauss%C3%A9e_aux_moines		http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Chauss%C3%A9e_aux_Moines_%282%29.JPG/280px-Chauss%C3%A9e_aux_Moines_%282%29.JPG	Cow
+Mayenne	53000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Pas-de-Calais	62000	Ch'ti Crémeux	http://fr.wikipedia.org/wiki/Ch%27ti_Cr%C3%A9meux			Cow
+Mayenne	53000	Port-Salut  	http://fr.wikipedia.org/wiki/Port-Salut_%28marque%29	http://en.wikipedia.org/wiki/Port_Salut	http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Port_Salut_cheese.jpg/280px-Port_Salut_cheese.jpg	Cow
+Mayenne	53000	Trappiste de Laval	http://fr.wikipedia.org/wiki/Trappiste_de_Laval			Cow
+Mayenne	53000	Vieux pané	http://fr.wikipedia.org/wiki/Vieux_pan%C3%A9		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fromage_le_vieux_pane.jpg/280px-Fromage_le_vieux_pane.jpg	Cow
+Meurthe-et-Moselle	54000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Morbihan	56000	Abbaye de la Joie Notre-Dame  	http://fr.wikipedia.org/wiki/Abbaye_de_la_Joie_Notre-Dame_%28fromage%29			Cow
+Morbihan	56000	Tome de Rhuys	http://fr.wikipedia.org/wiki/Tome_de_Rhuys		http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Salon_de_l%27agriculture_2011_-_tome_de_Rhuys_-_02.jpg/280px-Salon_de_l%27agriculture_2011_-_tome_de_Rhuys_-_02.jpg	Cow
+Morbihan	56000	Trappiste de Campénéac	http://fr.wikipedia.org/wiki/Trappiste_de_Camp%C3%A9n%C3%A9ac		http://asset.keldelice.com/attachments/photos/565943/original/trappiste_de_camp_n_ac.jpg?1285187686	Cow
+Moselle	57000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Moselle	57000	Tomme de Gorze	http://fr.wikipedia.org/wiki/Tomme_de_Gorze			Cow
+Moselle	57000	Tourrée de l'Aubier	http://fr.wikipedia.org/wiki/Tourr%C3%A9e_de_l%27Aubier			Cow
+Nord	59000	Baguette paysanne à la moutarde	http://fr.wikipedia.org/wiki/Baguette_paysanne_%C3%A0_la_moutarde			Cow
+Nord	59000	Boulet de Cassel	http://fr.wikipedia.org/wiki/Boulet_de_Cassel		http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boulet_de_Cassel_001.JPG/280px-Boulet_de_Cassel_001.JPG	Cow
+Nord	59000	Boulette d'Avesnes	http://fr.wikipedia.org/wiki/Boulette_d%27Avesnes		http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Boulette_d%27Avesnes_04.jpg/280px-Boulette_d%27Avesnes_04.jpg	Cow
+Nord	59000	Briquette de l'Ecaillon	http://fr.wikipedia.org/wiki/Briquette_de_l%27Ecaillon			Goat
+Nord	59000	Carré du Vinage	http://fr.wikipedia.org/wiki/Carr%C3%A9_du_Vinage			Cow
+Nord	59000	Dauphin  	http://fr.wikipedia.org/wiki/Dauphin_%28fromage%29			Cow
+Nord	59000	Larron d'Ors	http://fr.wikipedia.org/wiki/Larron_d%27Ors			Cow
+Nord	59000	Le Rouchi à l'échalote	http://fr.wikipedia.org/wiki/Le_Rouchi_%C3%A0_l%27%C3%A9chalote			Cow
+Nord	59000	Mimolette	http://fr.wikipedia.org/wiki/Mimolette	http://en.wikipedia.org/wiki/Mimolette	http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mimolette_vieille_etuvee.jpg/280px-Mimolette_vieille_etuvee.jpg	Cow
+Nord	59000	Mont des Cats	http://fr.wikipedia.org/wiki/Mont_des_Cats_%28marque_de_fromage%29	http://en.wikipedia.org/wiki/Mont_des_Cats_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MontsdesCats_fromage.jpg/280px-MontsdesCats_fromage.jpg	Cow
+Nord	59000	Rollot  	http://fr.wikipedia.org/wiki/Rollot_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rollot_de_Fruges.JPG/280px-Rollot_de_Fruges.JPG	Cow
+Nord	59000	T'chiot biloute	http://fr.wikipedia.org/wiki/T%27chiot_biloute			Cow
+Nord	59000	Tome de Cambrai	http://fr.wikipedia.org/wiki/Tome_de_Cambrai			Cow
+Oise	60000	Neufchâtel  	http://fr.wikipedia.org/wiki/Neufch%C3%A2tel_%28fromage%29	http://en.wikipedia.org/wiki/Neufch%C3%A2tel_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neufchatel_2.jpg/280px-Neufchatel_2.jpg	Cow
+Oise	60000	Tomme au foin	http://fr.wikipedia.org/wiki/Tomme_au_foin			Cow
+Orne	61000	Fourmagée	http://fr.wikipedia.org/wiki/Fourmag%C3%A9e		http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fourmag%C3%A9e_malax%C3%A9e_en_pot_avec_du_cidre.jpg/220px-Fourmag%C3%A9e_malax%C3%A9e_en_pot_avec_du_cidre.jpg	Cow
+Orne	61000	Le Rustique	http://fr.wikipedia.org/wiki/Le_Rustique	http://en.wikipedia.org/wiki/Le_Rustique	http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Le_rustique_01_WikiCheese_Lokal_K.jpg/280px-Le_rustique_01_WikiCheese_Lokal_K.jpg	Cow
+Orne	61000	Pavé d'Auge	http://fr.wikipedia.org/wiki/Pav%C3%A9_d%27Auge			Cow
+Orne	61000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Pas-de-Calais	62000	Crémet du Cap Blanc Nez	http://fr.wikipedia.org/wiki/Cr%C3%A9met_du_Cap_Blanc_Nez			Cow
+Pas-de-Calais	62000	Fort de Béthune	http://fr.wikipedia.org/wiki/Fort_de_B%C3%A9thune		http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fromage_fort_de_B%C3%A9thune.jpg/220px-Fromage_fort_de_B%C3%A9thune.jpg	Cow
+Pas-de-Calais	62000	Le Sire de Créquy	http://fr.wikipedia.org/wiki/Le_Sire_de_Cr%C3%A9quy			Cow
+Pas-de-Calais	62000	Pavé aux Algues de Samer	http://fr.wikipedia.org/wiki/Pav%C3%A9_aux_Algues_de_Samer			Cow
+Pas-de-Calais	62000	Rollot  	http://fr.wikipedia.org/wiki/Rollot_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rollot_de_Fruges.JPG/280px-Rollot_de_Fruges.JPG	Cow
+Pas-de-Calais	62000	Trappiste de Belval	http://fr.wikipedia.org/wiki/Trappiste_de_Belval			Cow
+Pas-de-Calais	62000	Vieux Boulogne	http://fr.wikipedia.org/wiki/Vieux_Boulogne	http://en.wikipedia.org/wiki/Vieux-Boulogne		Cow
+Pas-de-Calais	62000	Vieux Samer	http://fr.wikipedia.org/wiki/Vieux_Samer			Cow
+Puy-de-Dôme	63000	Bleu d'Auvergne	http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne	http://en.wikipedia.org/wiki/Bleu_d%27Auvergne	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bleu_d%27Auvergne_01.jpg/280px-Bleu_d%27Auvergne_01.jpg	Cow
+Puy-de-Dôme	63000	Bleu de Laqueuille	http://fr.wikipedia.org/wiki/Bleu_de_Laqueuille			Cow
+Puy-de-Dôme	63000	Chèvreton	http://fr.wikipedia.org/wiki/Ch%C3%A8vreton			Goat
+Puy-de-Dôme	63000	Fourme d'Ambert	http://fr.wikipedia.org/wiki/Fourme_d%27Ambert	http://en.wikipedia.org/wiki/Fourme_d%27Ambert	http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fourme_d%27Ambert.JPG/280px-Fourme_d%27Ambert.JPG	Cow
+Puy-de-Dôme	63000	Fourme de Montbrison	http://fr.wikipedia.org/wiki/Fourme_de_Montbrison	http://en.wikipedia.org/wiki/Fourme_de_Montbrison	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fourme_montbrison.jpg/280px-Fourme_montbrison.jpg	Cow
+Puy-de-Dôme	63000	Fourme de Rochefort-Montagne	http://fr.wikipedia.org/wiki/Fourme_de_Rochefort-Montagne			Cow
+Puy-de-Dôme	63000	Gaperon	http://fr.wikipedia.org/wiki/Gaperon	http://en.wikipedia.org/wiki/Gaperon	http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gaperon_%283%29.jpg/280px-Gaperon_%283%29.jpg	Cow
+Puy-de-Dôme	63000	Le Lavort	http://fr.wikipedia.org/wiki/Le_Lavort			Sheep
+Puy-de-Dôme	63000	Roue de Ris	http://fr.wikipedia.org/wiki/Roue_de_Ris		http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Roue_de_Ris.jpeg/280px-Roue_de_Ris.jpeg	Sheep
+Puy-de-Dôme	63000	Saint-nectaire  	http://fr.wikipedia.org/wiki/Saint-nectaire_%28fromage%29	http://en.wikipedia.org/wiki/Saint-Nectaire	http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint-Nectaire.jpg/280px-Saint-Nectaire.jpg	Cow
+Pyrénées-Atlantiques	64000	Abbaye de Belloc  	http://fr.wikipedia.org/wiki/Abbaye_de_Belloc_%28fromage%29	http://en.wikipedia.org/wiki/Abbaye_de_Belloc	http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abbaye_de_Bellocq_%28cheese%29.jpg/280px-Abbaye_de_Bellocq_%28cheese%29.jpg	Sheep
+Pyrénées-Atlantiques	64000	Ardi-Gasna	http://fr.wikipedia.org/wiki/Ardi-Gasna		http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Idiazabal2.jpg/280px-Idiazabal2.jpg	Sheep
+Pyrénées-Atlantiques	64000	Etorki	http://fr.wikipedia.org/wiki/Etorki	http://en.wikipedia.org/wiki/Etorki	http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fromage_Etorki.jpg/280px-Fromage_Etorki.jpg	Sheep
+Pyrénées-Atlantiques	64000	Gaztanbera	http://fr.wikipedia.org/wiki/Gaztanbera		http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Urd%C4%83.png/220px-Urd%C4%83.png	Sheep
+Pyrénées-Atlantiques	64000	Kaïkou	http://fr.wikipedia.org/wiki/Ka%C3%AFkou		http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cheese_ka%C3%AFku.jpg/220px-Cheese_ka%C3%AFku.jpg	Sheep
+Pyrénées-Atlantiques	64000	Le Bleu des Basques	http://fr.wikipedia.org/wiki/Le_Bleu_des_Basques		http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bleu_des_Basques.jpg/280px-Bleu_des_Basques.jpg	Sheep
+Pyrénées-Atlantiques	64000	Le Brebiou	http://fr.wikipedia.org/wiki/Le_Brebiou			Sheep
+Pyrénées-Atlantiques	64000	Ossau-iraty	http://fr.wikipedia.org/wiki/Ossau-iraty	http://en.wikipedia.org/wiki/Ossau-Iraty	http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ossau-iraty_01.jpg/280px-Ossau-iraty_01.jpg	Sheep
+Pyrénées-Atlantiques	64000	P'tit Basque	http://fr.wikipedia.org/wiki/P%27tit_Basque	http://en.wikipedia.org/wiki/P%27tit_Basque	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Paris%2C_fromage_Istara_P%27tit_Basque_au_march%C3%A9.JPG/280px-Paris%2C_fromage_Istara_P%27tit_Basque_au_march%C3%A9.JPG	Sheep
+Savoie	73000	Chevrotin	http://fr.wikipedia.org/wiki/Chevrotin	http://en.wikipedia.org/wiki/Chevrotin		Goat
+Pyrénées-Atlantiques	64000	Saint Albray	http://fr.wikipedia.org/wiki/Saint_Albray	http://en.wikipedia.org/wiki/Saint_Albray	http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saint_Albray.JPG/280px-Saint_Albray.JPG	Cow
+Pyrénées-Atlantiques	64000	Tomette de Brebis	http://fr.wikipedia.org/wiki/Tomette_de_Brebis			Sheep
+Pyrénées-Atlantiques	64000	Tomme des Pyrénées	http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es	http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tomme_noire_des_Pyrenees.jpg/280px-Tomme_noire_des_Pyrenees.jpg	Cow
+Réunion	97400	Cap Noir  	http://fr.wikipedia.org/wiki/Cap_Noir_%28fromage%29			Cow
+Réunion	97400	Délice de la Sicalait	http://fr.wikipedia.org/wiki/D%C3%A9lice_de_la_Sicalait			Cow
+Réunion	97400	La Fournaise  	http://fr.wikipedia.org/wiki/La_Fournaise_%28fromage%29			Cow
+Réunion	97400	La Petite Raclette	http://fr.wikipedia.org/wiki/La_Petite_Raclette			Cow
+Réunion	97400	Mont Bébour	http://fr.wikipedia.org/wiki/Mont_B%C3%A9bour			Cow
+Réunion	97400	Notre Dame de la Paix	http://fr.wikipedia.org/wiki/Notre_Dame_de_la_Paix			Cow
+Réunion	97400	Petit moka	http://fr.wikipedia.org/wiki/Petit_moka			Cow
+Réunion	97400	Piton des Neiges  	http://fr.wikipedia.org/wiki/Piton_des_Neiges_%28fromage%29			Cow
+Réunion	97400	Piton Maïdo  	http://fr.wikipedia.org/wiki/Piton_Ma%C3%AFdo_%28fromage%29			Cow
+Réunion	97400	Fromage des Plaines	http://fr.wikipedia.org/wiki/Fromage_des_Plaines			Cow
+Réunion	97400	Takamaka  	http://fr.wikipedia.org/wiki/Takamaka_%28fromage%29			Goat
+Réunion	97400	Ti frais des Hauts	http://fr.wikipedia.org/wiki/Ti_frais_des_Hauts			Cow
+Rhône  	69000	Arôme au vin blanc	http://fr.wikipedia.org/wiki/Ar%C3%B4me_au_vin_blanc		http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sp%C3%A9cialit%C3%A9_fromag%C3%A8re_de_Lyon_au_vin_blanc.jpg/280px-Sp%C3%A9cialit%C3%A9_fromag%C3%A8re_de_Lyon_au_vin_blanc.jpg	Cow
+Rhône  	69000	Arôme de Lyon	http://fr.wikipedia.org/wiki/Ar%C3%B4me_de_Lyon		http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fromage_recouvert_au_marc_de_raisin.jpg/280px-Fromage_recouvert_au_marc_de_raisin.jpg	Cow
+Rhône  	69000	Charolais  	http://fr.wikipedia.org/wiki/Charolais_%28fromage%29			Goat
+Rhône  	69000	La Pierre Dorée	http://fr.wikipedia.org/wiki/La_Pierre_Dor%C3%A9e		http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pierre_doree.jpg/280px-Pierre_doree.jpg	Goat
+Rhône  	69000	Mâconnais  	http://fr.wikipedia.org/wiki/M%C3%A2connais_%28fromage%29	http://en.wikipedia.org/wiki/M%C3%A2connais_cheese		Goat
+Rhône  	69000	Rigotte de Condrieu	http://fr.wikipedia.org/wiki/Rigotte_de_Condrieu	http://en.wikipedia.org/wiki/Rigotte_de_Condrieu	http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rigottes_de_Condrieu.JPG/280px-Rigottes_de_Condrieu.JPG	Goat
+Rhône  	69000	Tarare  	http://fr.wikipedia.org/wiki/Tarare_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FromageTarare.jpg/280px-FromageTarare.jpg	Cow
+Saône-et-Loire	71000	Autun  	http://fr.wikipedia.org/wiki/Autun_%28fromage%29			Goat
+Saône-et-Loire	71000	Bouton de Culotte	http://fr.wikipedia.org/wiki/Bouton_de_Culotte			Goat
+Saône-et-Loire	71000	Charolais  	http://fr.wikipedia.org/wiki/Charolais_%28fromage%29			Goat
+Saône-et-Loire	71000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Saône-et-Loire	71000	Mâconnais  	http://fr.wikipedia.org/wiki/M%C3%A2connais_%28fromage%29	http://en.wikipedia.org/wiki/M%C3%A2connais_cheese		Goat
+Saône-et-Loire	71000	Montrachet  	http://fr.wikipedia.org/wiki/Montrachet_%28marque%29			Goat
+Saône-et-Loire	71000	Morbier  	http://fr.wikipedia.org/wiki/Morbier_%28fromage%29	http://en.wikipedia.org/wiki/Morbier_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Morbier_%28fromage%29_01.jpg/280px-Morbier_%28fromage%29_01.jpg	Cow
+Sarthe	72000	Cousteron	http://fr.wikipedia.org/wiki/Cousteron			Cow
+Sarthe	72000	Kiri  	http://fr.wikipedia.org/wiki/Kiri_%28marque%29			Cow
+Savoie	73000	Brézain	http://fr.wikipedia.org/wiki/Br%C3%A9zain			Cow
+Savoie	73000	Emmental de Savoie	http://fr.wikipedia.org/wiki/Emmental_de_Savoie		http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emmental_de_Savoie_02.jpg/280px-Emmental_de_Savoie_02.jpg	Cow
+Savoie	73000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Savoie	73000	Reblochon	http://fr.wikipedia.org/wiki/Reblochon	http://en.wikipedia.org/wiki/Reblochon	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Reblochon_11.jpg/280px-Reblochon_11.jpg	Cow
+Savoie	73000	Thollon	http://fr.wikipedia.org/wiki/Thollon			Cow
+Savoie	73000	Abbaye de Tamié  	http://fr.wikipedia.org/wiki/Abbaye_de_Tami%C3%A9_%28fromage%29	http://en.wikipedia.org/wiki/Abbaye_de_Tami%C3%A9	http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fromage_abbaye_de_Tami%C3%A9.jpg/280px-Fromage_abbaye_de_Tami%C3%A9.jpg	Cow
+Savoie	73000	Abondance  	http://fr.wikipedia.org/wiki/Abondance_%28fromage%29	http://en.wikipedia.org/wiki/Abondance_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Abondance_%28fromage%29_01.jpg/280px-Abondance_%28fromage%29_01.jpg	Cow
+Savoie	73000	Avalin	http://fr.wikipedia.org/wiki/Avalin			Cow
+Savoie	73000	Beaufort  	http://fr.wikipedia.org/wiki/Beaufort_%28fromage%29	http://en.wikipedia.org/wiki/Beaufort_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Beaufort_%28fromage%29_01.jpg/280px-Beaufort_%28fromage%29_01.jpg	Cow
+Savoie	73000	Beaumont  	http://fr.wikipedia.org/wiki/Beaumont_%28fromage%29			Cow
+Savoie	73000	Bleu de Sainte-Foy	http://fr.wikipedia.org/wiki/Bleu_de_Sainte-Foy			Cow
+Savoie	73000	Bleu de Termignon	http://fr.wikipedia.org/wiki/Bleu_de_Termignon		http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bleu_de_Termignon.jpg/220px-Bleu_de_Termignon.jpg	Cow
+Savoie	73000	Bleu du Mont-Cenis	http://fr.wikipedia.org/wiki/Bleu_du_Mont-Cenis			Cow
+Savoie	73000	Chevrotin	http://fr.wikipedia.org/wiki/Chevrotin	http://en.wikipedia.org/wiki/Chevrotin		Goat
+Savoie	73000	Emmental de Savoie	http://fr.wikipedia.org/wiki/Emmental_de_Savoie		http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emmental_de_Savoie_02.jpg/280px-Emmental_de_Savoie_02.jpg	Cow
+Savoie	73000	Fromage aux noix	http://fr.wikipedia.org/wiki/Fromage_aux_noix			Cow
+Savoie	73000	Grataron du Beaufortain	http://fr.wikipedia.org/wiki/Grataron_du_Beaufortain			Goat
+Savoie	73000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Savoie	73000	Moelleux du Revard	http://fr.wikipedia.org/wiki/Moelleux_du_Revard		http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Moelleux_du_Revars.jpg/220px-Moelleux_du_Revars.jpg	Cow
+Savoie	73000	Persillé de Tignes	http://fr.wikipedia.org/wiki/Persill%C3%A9_de_Tignes		http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Persill%C3%A9_de_Tignes.jpg/266px-Persill%C3%A9_de_Tignes.jpg	Goat
+Savoie	73000	Persillé des Aravis	http://fr.wikipedia.org/wiki/Persill%C3%A9_des_Aravis			Goat
+Savoie	73000	Persillé du Mont-Cenis	http://fr.wikipedia.org/wiki/Persill%C3%A9_du_Mont-Cenis			Goat
+Savoie	73000	Raclette	http://fr.wikipedia.org/wiki/Raclette	http://en.wikipedia.org/wiki/Raclette	http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raclette2.jpg/220px-Raclette2.jpg	Cow
+Savoie	73000	Reblochon	http://fr.wikipedia.org/wiki/Reblochon	http://en.wikipedia.org/wiki/Reblochon	http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Reblochon_11.jpg/280px-Reblochon_11.jpg	Cow
+Savoie	73000	Tome des Bauges	http://fr.wikipedia.org/wiki/Tome_des_Bauges		http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tome_des_Bauges.jpg/280px-Tome_des_Bauges.jpg	Cow
+Savoie	73000	Tignard	http://fr.wikipedia.org/wiki/Tignard			Cow, Goat, Sheep
+Savoie	73000	Tomme blanche	http://fr.wikipedia.org/wiki/Tomme_blanche			Cow
+Savoie	73000	Tomme crayeuse	http://fr.wikipedia.org/wiki/Tomme_crayeuse		http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tomme_crayeuse.jpg/280px-Tomme_crayeuse.jpg	Cow
+Savoie	73000	Tomme de Savoie	http://fr.wikipedia.org/wiki/Tomme_de_Savoie	http://en.wikipedia.org/wiki/Tomme_de_Savoie	http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tomme_de_Savoie.jpg/280px-Tomme_de_Savoie.jpg	Cow
+Savoie	73000	Tomme forte de Savoie	http://fr.wikipedia.org/wiki/Tomme_forte_de_Savoie		http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tomme_forte_de_Savoie.jpg/280px-Tomme_forte_de_Savoie.jpg	Cow
+Savoie	73000	Vacherin des Bauges	http://fr.wikipedia.org/wiki/Vacherin_des_Bauges		http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vacherin_des_bauges.jpg/280px-Vacherin_des_bauges.jpg	Cow
+Seine-et-Marne	77000	Brie de Meaux	http://fr.wikipedia.org/wiki/Brie_de_Meaux	http://en.wikipedia.org/wiki/Brie_de_Meaux	http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brie_01.jpg/280px-Brie_01.jpg	Cow
+Seine-et-Marne	77000	Brie de Melun	http://fr.wikipedia.org/wiki/Brie_de_Melun		http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brie_de_Melun.jpg/280px-Brie_de_Melun.jpg	Cow
+Seine-et-Marne	77000	Brie de Montereau	http://fr.wikipedia.org/wiki/Brie_de_Montereau			Cow
+Seine-et-Marne	77000	Brie de Nangis	http://fr.wikipedia.org/wiki/Brie_de_Nangis		http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brie_de_Nangis.jpg/280px-Brie_de_Nangis.jpg	Cow
+Seine-et-Marne	77000	Coulommiers  	http://fr.wikipedia.org/wiki/Coulommiers_%28fromage%29	http://en.wikipedia.org/wiki/Coulommiers_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coulommiers_lait_cru.jpg/280px-Coulommiers_lait_cru.jpg	Cow
+Seine-et-Marne	77000	Fontainebleau	http://fr.wikipedia.org/wiki/Fontainebleau_%28dessert%29			Cow
+Seine-et-Marne	77000	Gratte-Paille	http://fr.wikipedia.org/wiki/Gratte-Paille			Cow
+Seine-Maritime	76000	Bouille  	http://fr.wikipedia.org/wiki/Bouille_%28fromage%29			Cow
+Seine-Maritime	76000	Le Graval	http://fr.wikipedia.org/wiki/Le_Graval		http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Graval.jpg/280px-Graval.jpg	Cow
+Seine-Maritime	76000	Neufchâtel  	http://fr.wikipedia.org/wiki/Neufch%C3%A2tel_%28fromage%29	http://en.wikipedia.org/wiki/Neufch%C3%A2tel_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neufchatel_2.jpg/280px-Neufchatel_2.jpg	Cow
+Seine-Maritime	76000	Pont-l'évêque  	http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29	http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pont-l%27%C3%89v%C3%AAque_03.jpg/280px-Pont-l%27%C3%89v%C3%AAque_03.jpg	Cow
+Somme	80000	Rollot  	http://fr.wikipedia.org/wiki/Rollot_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rollot_de_Fruges.JPG/280px-Rollot_de_Fruges.JPG	Cow
+Tarn	81000	Pélardon	http://fr.wikipedia.org/wiki/P%C3%A9lardon	http://en.wikipedia.org/wiki/P%C3%A9lardon	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/P%C3%A9lardon_01.jpg/280px-P%C3%A9lardon_01.jpg	Goat
+Tarn	81000	Pérail	http://fr.wikipedia.org/wiki/P%C3%A9rail	http://en.wikipedia.org/wiki/Perail	http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/P%C3%A9rail.jpg/280px-P%C3%A9rail.jpg	Sheep
+Territoire de Belfort	90000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Territoire de Belfort	90000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Val-de-Marne	94000	Délice de Saint-Cyr	http://fr.wikipedia.org/wiki/D%C3%A9lice_de_Saint-Cyr			Cow
+Vaucluse	84000	Picodon	http://fr.wikipedia.org/wiki/Picodon	http://en.wikipedia.org/wiki/Picodon	http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wikicheese_-_Picodon_-_20150417_-_003.jpg/280px-Wikicheese_-_Picodon_-_20150417_-_003.jpg	Goat
+Vienne	86000	Mottin charentais	http://fr.wikipedia.org/wiki/Mottin_charentais	http://en.wikipedia.org/wiki/Mottin_charentais	http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mottin_Charentais.jpg/280px-Mottin_Charentais.jpg	Cow
+Vienne	86000	Sainte-Maure de Touraine  	http://fr.wikipedia.org/wiki/Sainte-Maure_de_Touraine_%28fromage%29	http://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sainte-Maure_de_touraine_01.jpg/280px-Sainte-Maure_de_touraine_01.jpg	Goat
+Vosges  	88000	Gruyère français	http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais		http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Meules_gruyere.JPG/280px-Meules_gruyere.JPG	Cow
+Vosges  	88000	Munster  	http://fr.wikipedia.org/wiki/Munster_%28fromage%29	http://en.wikipedia.org/wiki/Munster_cheese	http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Munster_01.jpg/280px-Munster_01.jpg	Cow
+Yonne	89000	Abbaye de la Pierre-qui-Vire  	http://fr.wikipedia.org/wiki/Abbaye_de_la_Pierre-qui-Vire_%28fromage%29			Cow
+Yonne	89000	Boule des moines	http://fr.wikipedia.org/wiki/Boule_des_moines		http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pierre-qui-Vire-2009-10.jpg/220px-Pierre-qui-Vire-2009-10.jpg	Cow
+Yonne	89000	Boulette de la Pierre-qui-Vire	http://fr.wikipedia.org/wiki/Boulette_de_la_Pierre-qui-Vire			Cow
+Yonne	89000	Brie de Melun	http://fr.wikipedia.org/wiki/Brie_de_Melun		http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brie_de_Melun.jpg/280px-Brie_de_Melun.jpg	Cow
+Yonne	89000	Époisses  	http://fr.wikipedia.org/wiki/%C3%89poisses_%28fromage%29	http://en.wikipedia.org/wiki/%C3%89poisses_de_Bourgogne	http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%C3%89poisses_Gaugry_03.jpg/280px-%C3%89poisses_Gaugry_03.jpg	Cow
+Yonne	89000	Saint-florentin  	http://fr.wikipedia.org/wiki/Saint-florentin_%28fromage%29			Cow
+Yonne	89000	Soumaintrain  	http://fr.wikipedia.org/wiki/Soumaintrain_%28fromage%29		http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Soumaintrain.jpg/280px-Soumaintrain.jpg	Cow
+Yonne	89000	Suprême des Ducs	http://fr.wikipedia.org/wiki/Supr%C3%AAme_des_Ducs			Cow
